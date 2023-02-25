@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "board.h": "c",
+        "pushb_ctrl_cfg.h": "c",
+        "app_scheduler.h": "c",
+        "compiler.h": "c",
+        "pio_it.h": "c",
+        "typedefs.h": "c",
+        "app_scheduler_cfg.h": "c"
+    }
+}
